@@ -2,7 +2,6 @@
 define('TITLE', 'Admin');
 
 include "../include/header.php";
-include "../include/nav.php";
 ?>
 <div class="span12">
 

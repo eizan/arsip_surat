@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "pkl";
+$database = "arsip_surat";
 
 // Membuat Koneksi
 $conn = mysqli_connect($servername,$username,$password,$database);
